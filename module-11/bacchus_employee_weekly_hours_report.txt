@@ -1,0 +1,6 @@
+***** Employee Weekly Hours *****
+Employee: Janet Collins, Week: 2025-04-28, Hours Worked: 40.00
+Employee: Roz Murphy, Week: 2025-04-28, Hours Worked: 38.00
+Employee: Bob Ulrich, Week: 2025-04-28, Hours Worked: 42.00
+Employee: Henry Doyle, Week: 2025-04-28, Hours Worked: 36.00
+Employee: Maria Costanza, Week: 2025-04-28, Hours Worked: 39.00

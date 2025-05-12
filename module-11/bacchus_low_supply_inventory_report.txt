@@ -1,0 +1,3 @@
+***** Low Supply Inventory *****
+Supply: Bottles, Quantity On Hand: 80
+Supply: Tubing, Quantity On Hand: 90
